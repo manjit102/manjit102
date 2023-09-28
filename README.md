@@ -16,7 +16,7 @@
 
 ✨ I have Qualified Sainik School Rewa (M.P.) Examination in 2013.
 
-
+⚡ I have been an Examination Proctor for Navodaya Dakshana Selection Test (NDST) in July 2022 on behalf of Dakshana Foundation.
 
 <!--
 **manjit102/manjit102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
