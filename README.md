@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi there, Manjit Kumar
+#### About :
+🔭 I am pursuing BSMS in Mathematics & Computing from NIT Agartala.
+
+🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing.
 
 <!--
 **manjit102/manjit102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 102
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
