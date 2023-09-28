@@ -2,6 +2,12 @@
 #### About :
 🔭 I am pursuing BSMS in Mathematics & Computing from NIT Agartala.
 
+🔭 I have completed my Intermediate of Science from JNV Bagalur, Bangalore Urban, Karnataka.
+
+🔭 I have completed my Matriculation from JNV Deoti, Saran, Bihar.
+
+⚡ I have completed my one year migration in Class 9th from JNV Kherengjuri, North Tripura, Tripura.
+
 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing.
 
 <!--
