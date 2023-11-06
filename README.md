@@ -1,6 +1,6 @@
 ### Hi there, Manjit Kumar
 #### About :
-🔭 I am pursuing BSMS in Mathematics & Computing from NIT Agartala.
+🔭 I am pursuing BSMS in # Mathematics & Computing from NIT Agartala.
 
 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing.
 
