@@ -2,7 +2,7 @@
 #### About :
 🔭 I am pursuing BSMS in Mathematics & Computing from NIT Agartala.
 
-🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing.
+🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing.
 
 🔭 I have completed my Intermediate of Science from JNV Bagalur, Bangalore Urban, Karnataka.
 
@@ -19,7 +19,7 @@
 ⚡ I have been an Examination Proctor for Navodaya Dakshana Selection Test (NDST) in July 2022 on behalf of Dakshana Foundation.
 
 
-Skills : Python | C | C++ | MATLAB | Excel | Tableau | Machine Learning | Deep Learning | Data Structure | Artificial Intelligence.
+Skills : Python | C | C++ | MATLAB | Excel | Tableau | Machine Learning | Deep Learning | Data Structure | Artificial Intelligence | Computer Vision.
 
 
 <!--
