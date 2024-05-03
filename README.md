@@ -4,7 +4,7 @@
 
 🔭 I am really passionate about **Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing**.
 
-🌱 I successfully qualified the **GATE 2024** examination in **Data Science and Artificial Intelligence (DA)** with a **score of 551**, securing an **All India Rank of 1399** and achieving a score of **51.67 out of 100**.
+🌱 I have successfully qualified the **GATE 2024** examination in **Data Science and Artificial Intelligence (DA)** with a **score of 551**, securing an **All India Rank of 1399** and achieving a score of **51.67 out of 100**.
 
 🔭 I have completed my ***Intermediate of Science*** from ***JNV Bagalur, Bangalore Urban, Karnataka***.
 
