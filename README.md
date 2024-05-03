@@ -1,4 +1,4 @@
-### Hi there, **Manjit Kumar**
+## **मंजीत कुमार**
 #### About :
 🔭 I am pursuing ***BSMS*** in ***Mathematics & Computing*** from ***NIT Agartala***.
 
