@@ -1,6 +1,6 @@
 ## **मंजीत कुमार**
 #### About :
-🔭 I am pursuing ***BSMS*** in ***<font color = 'red'>Mathematics & Computing</font>*** from ***NIT Agartala***.
+🔭 I am pursuing ***BSMS*** in ***Mathematics & Computing*** from ***NIT Agartala***.
 
 🔭 I am really passionate about **Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing**.
 
